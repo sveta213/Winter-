@@ -1,0 +1,44 @@
+.selector-for-some-widget {
+  box-sizing: content-box;
+}
+body{
+	background-image:url("https://s7d2.scene7.com/is/image/TWCNews/snowflake-formatted-snow-03222020jpg");
+	background-size:cover;
+	text-align:center;
+}
+iframe{
+	margin:25px;
+}
+.twitter-timeline{
+	margin: 25px;
+}
+#accordionFlushExample{
+	background-color: white;
+	opacity: 88%;
+	margin: 40px;
+	font-size: 25px;
+}
+#two{
+	background-color: white;
+	opacity: 88%;
+	margin: 40px;
+	font-size: 25px;
+	border-radius: 50px;
+	padding: 20px;
+}
+#thgee{
+	background-color: #ffcdad;
+	opacity: 88%;
+	margin: 40px;
+	font-size: 25px;
+	border-radius: 50px;
+	padding: 20px;
+}
+#foyr{
+	background-color: #adffdb;
+	opacity: 88%;
+	margin: 40px;
+	font-size: 25px;
+	border-radius: 50px;
+	padding: 20px;
+}
